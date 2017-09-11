@@ -196,7 +196,7 @@ public class Principal extends javax.swing.JFrame {
         Panel2.setVisible(false);
         Panel3.setVisible(false);
         System.out.println("ss");
-        //rama 1 esto tiene cambios
+        //rama 1 esto tiene cambios ssss
         
        
     }//GEN-LAST:event_jButton1ActionPerformed
